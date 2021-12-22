@@ -2,7 +2,7 @@
 Ideas for Data Exploration
 
 Hello World!
-My name is Auralee, AKA Aura. I'm a data scientist with a big interest in music. 
+My name is Auralee (Aura). I'm a data scientist with a big interest in music. 
 I would like to start creating more data visualizations about music-related data. 
 For my first project, I plan to manipulate some data frames in R, create visualizations with plotly, and embed them on my website.
 
